@@ -2,7 +2,7 @@ REALESTATE MANAGEMENT APPLICATION
   
   This realestate website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It provides an interactive platform for users to search, view, and manage property listings. The app is designed for      ease of use with features including property filters, authentication, dashboards, and visit scheduling.
 
-Key features
+🔑Key features
 
  
    . User Authentication
@@ -16,6 +16,21 @@ Key features
    . Dashboard
  
    . Responsive UI
+
+
+
+🧰 Tech Stack:
+
+Frontend: 	React.js, React Router, Bootstrap
+
+Backend:    Node.js, Express.js
+
+Database: 	MongoDB, Mongoose
+
+Security: 	bcrypt, JWT
+
+APIs:      	Axios, REST API
+
 
 
 
