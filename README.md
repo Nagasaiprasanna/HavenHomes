@@ -19,17 +19,17 @@ REALESTATE MANAGEMENT APPLICATION
 
 
 
-🧰 Tech Stack:
+🧰 Technology Stack:
 
-Frontend: 	React.js, React Router, Bootstrap
+Frontend: 	 React.js, React Router, Bootstrap
 
-Backend:    Node.js, Express.js
+Backend :    Node.js, Express.js
 
-Database: 	MongoDB, Mongoose
+Database: 	 MongoDB, Mongoose
 
-Security: 	bcrypt, JWT
+Security: 	 bcrypt, JWT
 
-APIs:      	Axios, REST API
+APIs    :    Axios, REST API
 
 
 
